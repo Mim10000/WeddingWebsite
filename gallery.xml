@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="index5.html"
+	thumbPosition="BOTTOM"
+	galleryStyle="MODERN"
+	thumbColumns="7"
+	thumbRows="1"
+	frameWidth="0"
+	galleryWidth="1000"
+	galleryHeight="800"
+	backgroundColor="FFFFFF"
+
+>
+  <image imageURL="images/MJ1.jpg"
+	thumbURL="thumbs/MJ1.jpg"
+	linkURL="images/MJ1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ2.jpg"
+	thumbURL="thumbs/MJ2.jpg"
+	linkURL="images/MJ2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ3.jpg"
+	thumbURL="thumbs/MJ3.jpg"
+	linkURL="images/MJ3.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ4.jpg"
+	thumbURL="thumbs/MJ4.jpg"
+	linkURL="images/MJ4.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ5.jpg"
+	thumbURL="thumbs/MJ5.jpg"
+	linkURL="images/MJ5.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ6.jpg"
+	thumbURL="thumbs/MJ6.jpg"
+	linkURL="images/MJ6.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ7.JPG"
+	thumbURL="thumbs/MJ7.JPG"
+	linkURL="images/MJ7.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ8.JPG"
+	thumbURL="thumbs/MJ8.JPG"
+	linkURL="images/MJ8.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ9.JPG"
+	thumbURL="thumbs/MJ9.JPG"
+	linkURL="images/MJ9.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ10.JPG"
+	thumbURL="thumbs/MJ10.JPG"
+	linkURL="images/MJ10.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ11.JPG"
+	thumbURL="thumbs/MJ11.JPG"
+	linkURL="images/MJ11.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ12.jpg"
+	thumbURL="thumbs/MJ12.jpg"
+	linkURL="images/MJ12.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ13.jpg"
+	thumbURL="thumbs/MJ13.jpg"
+	linkURL="images/MJ13.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ14.jpg"
+	thumbURL="thumbs/MJ14.jpg"
+	linkURL="images/MJ14.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ15.jpg"
+	thumbURL="thumbs/MJ15.jpg"
+	linkURL="images/MJ15.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ16.jpg"
+	thumbURL="thumbs/MJ16.jpg"
+	linkURL="images/MJ16.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ17.jpg"
+	thumbURL="thumbs/MJ17.jpg"
+	linkURL="images/MJ17.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ18.jpg"
+	thumbURL="thumbs/MJ18.jpg"
+	linkURL="images/MJ18.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MJ19.jpg"
+	thumbURL="thumbs/MJ19.jpg"
+	linkURL="images/MJ19.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
